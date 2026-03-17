@@ -27,8 +27,17 @@ omarchy-theme-set blue-screen-of-death
 - `btop.theme` for a readable blue/white system monitor palette
 - `alacritty.toml` to keep terminal text white on the BSOD blue background
 - `hyprland.conf` for white active borders and light-gray inactive borders
+- `tmux.conf` for white-background, blue-text tmux UI elements
 - `neovim.lua`, `vscode.json`, and `icons.theme` for app-specific alignment
 - `wallpaper.svg`, `preview.png`, and `backgrounds/0-blue-screen-of-death.png`
+
+## tmux
+
+Omarchy does not currently wire theme files into tmux automatically. To use the included `tmux.conf`, add this line to your main `~/.config/tmux/tmux.conf`:
+
+```tmux
+if-shell '[ -f ~/.config/omarchy/current/theme/tmux.conf ]' 'source-file ~/.config/omarchy/current/theme/tmux.conf'
+```
 
 ## Preview
 
