@@ -17,7 +17,7 @@ theme[selected_bg]="#005a9e"
 theme[selected_fg]="#ffffff"
 
 # Color of inactive/disabled text
-theme[inactive_fg]="#d9d9d9"
+theme[inactive_fg]="#d9ecff"
 
 # Color of text appearing on top of graphs, i.e uptime and current network graph scaling
 theme[graph_text]="#ffffff"
@@ -30,12 +30,12 @@ theme[proc_misc]="#ffffff"
 
 # CPU, Memory, Network, Proc box outline colors
 theme[cpu_box]="#ffffff"
-theme[mem_box]="#f2f2f2"
-theme[net_box]="#d9d9d9"
+theme[mem_box]="#d9ecff"
+theme[net_box]="#88c3ff"
 theme[proc_box]="#ffffff"
 
 # Box divider line and small boxes line color
-theme[div_line]="#d9d9d9"
+theme[div_line]="#d9ecff"
 
 # Temperature graph color
 theme[temp_start]="#ffffff"
@@ -53,7 +53,7 @@ theme[free_mid]="#d9ecff"
 theme[free_end]="#88c3ff"
 
 # Mem/Disk cached meter
-theme[cached_start]="#f2f8ff"
+theme[cached_start]="#ffffff"
 theme[cached_mid]="#d9ecff"
 theme[cached_end]="#58b2f6"
 
