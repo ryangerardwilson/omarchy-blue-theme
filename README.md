@@ -29,7 +29,7 @@ omarchy-theme-set blue
 - `hyprland.conf` for white active borders and light-gray inactive borders
 - `tmux.conf` for white-background, blue-text tmux UI elements
 - `blue.tmTheme` for Codex syntax and code-edit blocks on the light blue variant
-- `neovim.lua`, `vscode.json`, and `icons.theme` for app-specific alignment
+- `neovim.lua`, `vscode.json`, `icons.theme`, `zathurarc`, and `swayimgrc` for app-specific alignment
 - `wallpaper.txt`, `wallpaper.svg`, `preview.png`, and `backgrounds/0-blue.png`
 
 ## tmux
