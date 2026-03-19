@@ -1,33 +1,97 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3840 2160" role="img" aria-labelledby="title desc">
-  <title id="title">Blue Screen Of Death Omarchy wallpaper</title>
-  <desc id="desc">A Windows BSOD-inspired wallpaper for an Omarchy custom theme.</desc>
+  <title id="title">Blue Omarchy wallpaper</title>
+  <desc id="desc">A centered blue ASCII wallpaper sourced from the local wallpaper.txt file.</desc>
 
   <rect width="3840" height="2160" fill="#0078d7" />
 
-  <g fill="#ffffff">
-    <text x="274" y="456" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="248" font-weight="700">:(</text>
-
-    <text x="286" y="700" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="88" font-weight="400">
-      <tspan x="286" dy="0">We are grateful to the Blue Screen of Death</tspan>
-      <tspan x="286" dy="112">for bringing us to Linux.</tspan>
-    </text>
-
-    <text x="286" y="994" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="44" font-weight="400" opacity="0.96">
-      <tspan x="286" dy="0">It turns out crashing before every deadline was not a feature.</tspan>
-      <tspan x="286" dy="64">Windows was just doing community outreach for Linux.</tspan>
-    </text>
-
-    <text x="286" y="1188" font-family="Liberation Sans, Noto Sans, sans-serif" font-size="48" font-weight="700">100% converted</text>
-
-    <text x="286" y="1462" font-family="JetBrainsMono Nerd Font, Liberation Mono, monospace" font-size="38" font-weight="400">
-      <tspan x="286" dy="0">For more information about this miracle and possible fixes, remember:</tspan>
-      <tspan x="286" dy="58">the best Windows recovery tool was installing Linux.</tspan>
-      <tspan x="286" dy="58">Enjoy your uptime.</tspan>
-    </text>
-
-    <text x="286" y="1832" font-family="JetBrainsMono Nerd Font, Liberation Mono, monospace" font-size="42" font-weight="700">
-      <tspan x="286" dy="0">STOP CODE: THANKS_WINDOWS</tspan>
-      <tspan x="286" dy="68">WHAT FAILED: windows</tspan>
-    </text>
-  </g>
+  <text
+    x="960"
+    y="200"
+    fill="#ffffff"
+    font-family="JetBrainsMono Nerd Font Mono, JetBrainsMono Nerd Font, Liberation Mono, monospace"
+    font-size="24"
+    text-anchor="start"
+    xml:space="preserve"
+    font-variant-ligatures="none"
+  >
+      <tspan x="960" dy="24"></tspan>
+      <tspan x="960" dy="24"></tspan>
+      <tspan x="960" dy="24"></tspan>
+      <tspan x="960" dy="24">                                        █████████████████████████████████████████████████████</tspan>
+      <tspan x="960" dy="24">                                        █                                                   █</tspan>
+      <tspan x="960" dy="24">                                        █                                                   █</tspan>
+      <tspan x="960" dy="24">                                        █                                                   █</tspan>
+      <tspan x="960" dy="24">                                        █                                                   █</tspan>
+      <tspan x="960" dy="24">                                        █                                                   █</tspan>
+      <tspan x="960" dy="24">                                        █                                                   █</tspan>
+      <tspan x="960" dy="24">                                        ████████████████████             ████████████████████</tspan>
+      <tspan x="960" dy="24">                                                           █             █</tspan>
+      <tspan x="960" dy="24">                                                           █             █</tspan>
+      <tspan x="960" dy="24">                                                           █             █</tspan>
+      <tspan x="960" dy="24">                                 ███████                   █             █                  ████████</tspan>
+      <tspan x="960" dy="24">                                 █     █                   █             █                  █      █</tspan>
+      <tspan x="960" dy="24">                                 █     █                   █             █                  █      █</tspan>
+      <tspan x="960" dy="24">                                 █     █                   █             █                  █      █</tspan>
+      <tspan x="960" dy="24">                                 █     █                   █             █                  █      █</tspan>
+      <tspan x="960" dy="24">                                 █     █                   █             █                  █      █</tspan>
+      <tspan x="960" dy="24">                                 █     █                   █             █                  █      █</tspan>
+      <tspan x="960" dy="24">                    ██████████████     ███████████████     █             █     ██████████████      ██████████████</tspan>
+      <tspan x="960" dy="24">                    █                                █     █             █     █                                █</tspan>
+      <tspan x="960" dy="24">                    █                                █     █             █     █                                █</tspan>
+      <tspan x="960" dy="24">██████████████      ██████████████     ███████████████     █             █     ██████████████      ██████████████      ██████████████</tspan>
+      <tspan x="960" dy="24">█            █                   █     █                   █             █                  █      █                   █            █</tspan>
+      <tspan x="960" dy="24">█            █                   █     █                   █             █                  █      █                   █            █</tspan>
+      <tspan x="960" dy="24">█            █                   █     █                   █             █                  █      █                   █            █</tspan>
+      <tspan x="960" dy="24">█            █                   █     █                   █             █                  █      █                   █            █</tspan>
+      <tspan x="960" dy="24">█            █                   █     █                   █             █                  █      █                   █            █</tspan>
+      <tspan x="960" dy="24">█            █                   █     █                   █             █                  █      █                   █            █</tspan>
+      <tspan x="960" dy="24">█            █                   ███████                   █             █                  ████████                   █            █</tspan>
+      <tspan x="960" dy="24">█            █                                             █             █                                             █            █</tspan>
+      <tspan x="960" dy="24">█            █                                             █             █                                             █            █</tspan>
+      <tspan x="960" dy="24">█            █                                             █             █                                             █            █</tspan>
+      <tspan x="960" dy="24">█            ███████████████████████████████████████████████             ███████████████████████████████████████████████            █</tspan>
+      <tspan x="960" dy="24">█                                                                                                                                   █</tspan>
+      <tspan x="960" dy="24">█                                                                                                                                   █</tspan>
+      <tspan x="960" dy="24">█                                                                                                                                   █</tspan>
+      <tspan x="960" dy="24">█                                                                                                                                   █</tspan>
+      <tspan x="960" dy="24">█                                                                                                                                   █</tspan>
+      <tspan x="960" dy="24">█                                                                                                                                   █</tspan>
+      <tspan x="960" dy="24">█            ███████████████████████████████████████████████             ███████████████████████████████████████████████            █</tspan>
+      <tspan x="960" dy="24">█            █                                             █             █                                             █            █</tspan>
+      <tspan x="960" dy="24">█            █                                             █             █                                             █            █</tspan>
+      <tspan x="960" dy="24">█            █                                             █             █                                             █            █</tspan>
+      <tspan x="960" dy="24">█            █                   ███████                   █             █                  ████████                   █            █</tspan>
+      <tspan x="960" dy="24">█            █                   █     █                   █             █                  █      █                   █            █</tspan>
+      <tspan x="960" dy="24">█            █                   █     █                   █             █                  █      █                   █            █</tspan>
+      <tspan x="960" dy="24">█            █                   █     █                   █             █                  █      █                   █            █</tspan>
+      <tspan x="960" dy="24">█            █                   █     █                   █             █                  █      █                   █            █</tspan>
+      <tspan x="960" dy="24">█            █                   █     █                   █             █                  █      █                   █            █</tspan>
+      <tspan x="960" dy="24">█            █                   █     █                   █             █                  █      █                   █            █</tspan>
+      <tspan x="960" dy="24">██████████████      ██████████████     ███████████████     █             █     ██████████████      ██████████████      ██████████████</tspan>
+      <tspan x="960" dy="24">                    █                                █     █             █     █                                █</tspan>
+      <tspan x="960" dy="24">                    █                                █     █             █     █                                █</tspan>
+      <tspan x="960" dy="24">                    ██████████████     ███████████████     █             █     ██████████████      ██████████████</tspan>
+      <tspan x="960" dy="24">                                 █     █                   █             █                  █      █</tspan>
+      <tspan x="960" dy="24">                                 █     █                   █             █                  █      █</tspan>
+      <tspan x="960" dy="24">                                 █     █                   █             █                  █      █</tspan>
+      <tspan x="960" dy="24">                                 █     █                   █             █                  █      █</tspan>
+      <tspan x="960" dy="24">                                 █     █                   █             █                  █      █</tspan>
+      <tspan x="960" dy="24">                                 █     █                   █             █                  █      █</tspan>
+      <tspan x="960" dy="24">                                 █     █                   █             █                  █      █</tspan>
+      <tspan x="960" dy="24">                                 ███████                   █             █                  ████████</tspan>
+      <tspan x="960" dy="24">                                                           █             █</tspan>
+      <tspan x="960" dy="24">                                                           █             █</tspan>
+      <tspan x="960" dy="24">                                        ████████████████████             ████████████████████</tspan>
+      <tspan x="960" dy="24">                                        █                                                   █</tspan>
+      <tspan x="960" dy="24">                                        █                                                   █</tspan>
+      <tspan x="960" dy="24">                                        █                                                   █</tspan>
+      <tspan x="960" dy="24">                                        █                                                   █</tspan>
+      <tspan x="960" dy="24">                                        █                                                   █</tspan>
+      <tspan x="960" dy="24">                                        █                                                   █</tspan>
+      <tspan x="960" dy="24">                                        █                                                   █</tspan>
+      <tspan x="960" dy="24">                                        █████████████████████████████████████████████████████</tspan>
+      <tspan x="960" dy="24"></tspan>
+      <tspan x="960" dy="24"></tspan>
+      <tspan x="960" dy="24"></tspan>
+  </text>
 </svg>

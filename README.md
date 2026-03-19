@@ -1,4 +1,4 @@
-# blue-screen-of-death
+# blue
 
 An Omarchy extra theme inspired by the Windows Blue Screen of Death, but rewritten as a thank-you note for finally pushing us to Linux.
 
@@ -11,14 +11,14 @@ This repository follows Omarchy's extra-theme layout:
 ## Install
 
 ```bash
-omarchy-theme-install https://github.com/ryangerardwilson/omarchy-blue-screen-of-death-theme.git
+omarchy-theme-install https://github.com/ryangerardwilson/omarchy-blue-theme.git
 ```
 
 If you clone it manually:
 
 ```bash
-git clone https://github.com/ryangerardwilson/omarchy-blue-screen-of-death-theme.git ~/.config/omarchy/themes/blue-screen-of-death
-omarchy-theme-set blue-screen-of-death
+git clone https://github.com/ryangerardwilson/omarchy-blue-theme.git ~/.config/omarchy/themes/blue
+omarchy-theme-set blue
 ```
 
 ## Included Overrides
@@ -28,9 +28,9 @@ omarchy-theme-set blue-screen-of-death
 - `alacritty.toml` to keep terminal text white on the BSOD blue background, with white highlights and blue selected text
 - `hyprland.conf` for white active borders and light-gray inactive borders
 - `tmux.conf` for white-background, blue-text tmux UI elements
-- `blue_screen_of_death.tmTheme` for Codex syntax and code-edit blocks on BSOD blue instead of dark gray
+- `blue.tmTheme` for Codex syntax and code-edit blocks on the light blue variant
 - `neovim.lua`, `vscode.json`, and `icons.theme` for app-specific alignment
-- `wallpaper.svg`, `preview.png`, and `backgrounds/0-blue-screen-of-death.png`
+- `wallpaper.txt`, `wallpaper.svg`, `preview.png`, and `backgrounds/0-blue.png`
 
 ## tmux
 
@@ -42,4 +42,4 @@ if-shell '[ -f ~/.config/omarchy/current/theme/tmux.conf ]' 'source-file ~/.conf
 
 ## Preview
 
-![blue-screen-of-death preview](preview.png)
+![blue preview](preview.png)
